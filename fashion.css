@@ -1,0 +1,32 @@
+#fashionbody{
+    border: 1px;border-style: solid;
+    height: 800px;width: 100%;
+    padding-top: 100px;
+    align-items: center;
+}
+#tshirt,#shoe,#shirt,#watch{
+    height: 100px;width: 60%;
+    background-color: white;
+    margin-top: 10px;margin-bottom: 10px;margin-left: 300px;
+}
+.icont{
+    text-align: center;
+}
+#btlist{
+    background-color: white;
+    font-size: 1cm;
+    font-family: csfont2;
+    border: none;
+    margin-top: 20px;
+}
+#btlist:hover{
+    color: red;
+}
+.fmenu{
+    margin-top: 5px;
+    margin-left: 20px;
+    float: left;
+}
+.fmenu:hover{
+    transform: scale(1.2);
+}

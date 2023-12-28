@@ -1,0 +1,35 @@
+.tshirtbody{
+    border: 2px;
+    border-style: hidden;
+    height: 800px;width: 100%;
+    margin-top: 5px;
+}
+#mpic{
+    text-align: center;
+    margin-top: 20px;
+}
+.buynow{
+    background-color: #a64dff;
+    border: hidden;
+    color: black;
+    font-family: csfont2;font-size: 1cm;
+    margin-top: 5px;
+}
+.buynow:hover{
+    color: black;
+    background-color: yellow;
+
+}
+#tshirtdesc{
+    font: csfont2;
+    color: black;
+    text-align: center;
+}
+#ptshirt{
+    font-size: 0.5cm;
+    font-family: csfont2;
+    color: #400080;
+    text-align: justify;
+    margin-left: 50px;
+    margin-bottom: 1px;
+}

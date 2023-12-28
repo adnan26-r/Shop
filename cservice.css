@@ -1,0 +1,58 @@
+#customerbox{
+    background-color: white;
+    border: 3px;border-color: #400080;border-style: hidden;
+    height: 700px; width: 100%;
+    margin-top: 100px;margin-bottom: 100px;
+    padding-top: 20px;
+}
+.linktxt{
+    font-family: csfont2;
+    font-size: 0.5cm;
+    color: #5900b3;
+    font-style: italic;
+}
+#chat{
+    border: 2px;border-style: hidden;
+    height: 150px;
+    margin-top: 10px;
+}
+#mic{
+    border: 2px;border-style: hidden;
+    height: 150px;
+    
+}
+#shopad{
+    border: 2px;border-style: hidden;
+    height: 300px;
+    text-align: center;
+    margin-top: 20px;
+}
+#chat1{
+    margin-left: 200px;margin-top: 50px;
+    float: left;
+    border: 2px;border-style: hidden;
+}
+#chat2{
+    float: left;
+    border: 2px;border-style: hidden;
+    
+}
+#mic1{
+    margin-right: 200px;margin-top: 40px;
+    float: right;
+    border: 2px;border-style: hidden;
+}
+#mic2{
+    float: right;
+    border: 2px;border-style: hidden;
+    margin-right: 80px;
+}
+.csb{
+    border: none;
+    background-color: white;
+    font-family: csfont2;
+    font-size: 0.8cm;
+}
+.csb:hover{
+    color: #5900b3;
+}

@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    background: rgb(64,0,128);
+    background: linear-gradient(180deg, rgba(64,0,128,1) 8%, rgba(89,0,179,1) 70%);
+}
+h1{
+    color: white;
+    font-size: 2cm;
+    font-family: csfont;
+    padding-left: 16cm;
+}
+.frmlg{
+    padding-top: 1cm;
+    padding-left: 15cm;
+}
+.mb-3{
+    margin-top: 0px;
+    padding-top: 1cm;
+    color: white;
+    font-family: csfont2;
+    font-size: 1cm;
+}
+.form-control{
+    height: 1cm;width: 10cm;
+    font-size: 0.5cm;
+    font-family: tahoma;
+    margin-bottom: 10px;
+}
+
+.btnsub{
+    background-color: #5900b3;
+    color: white;
+    font-size: 1cm;
+    font-family: csfont2;
+    margin-top: 5px;margin-left: 110px;
+    border: hidden;
+}
+.btnsub:hover{
+    background-color: yellow;
+    color: black;
+}
+@font-face {
+    font-family: csfont;
+    src: url(HatimuneFree.otf);
+}
+@font-face {
+    font-family: csfont2;
+    src: url(Beckman-Free.otf);
+}

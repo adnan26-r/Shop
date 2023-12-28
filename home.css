@@ -1,0 +1,132 @@
+body{
+    background-color: #e6e6ff;
+    margin: 0px;
+    width: 100%;
+}
+header{
+    width: 100%;
+    background: rgb(64,0,128);
+    background: linear-gradient(180deg, rgba(64,0,128,1) 8%, rgba(89,0,179,1) 70%);
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0;
+}
+#hd{
+    margin-top: 0px;
+    padding-top: 1cm;
+}
+.top{
+    color: white;
+    font-family: csfont;
+    font-size: 1cm;
+    text-align: center;
+}
+#bar{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 130px;
+    overflow: hidden;
+    background-color: #5900b3;
+}
+.list{
+    float: left;
+}
+.list .link{
+    display: block;
+    color: white;
+    text-align: center;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    text-decoration: none;
+    font-family: csfont2;
+    
+}
+.list .link:hover {
+    background-color: #4a0193;
+    
+}
+.content{
+    margin-top: 5px;margin-left: 0px;margin-right: 0px;margin-bottom: 5px; 
+}
+.subcontent{
+    text-align: center;
+    margin-top: 1px;
+}
+.adbox{
+    text-align: center;
+
+}
+.boximg{
+    margin-top: 15px;margin-left: 60px;margin-right: 60px;margin-bottom: 25px;  
+}
+#bg{
+    text-align: center;
+    background-color: #5900b3;
+    
+}
+.adbxhd{
+    color:white;
+    font-family: csfont2;
+    font-size: 0.5cm;
+    display: inline;
+    margin-top: 50px;margin-left: 110px;margin-right: 110px;margin-bottom: 10px;
+    text-align: center;
+}
+#backbutton{
+    width: 100%;height: 30px;
+    background-color: #400080;
+    font-family: csfont2;
+    font-size: 0.5cm;
+    border: none;
+}
+
+.footer{
+    background-color: #7575a3;
+    font-family: csfont2;
+    font-size: 0.5cm;  
+}
+#shopfooter{
+    color: #400080;
+    font-size: 1cm;
+    font-family: csfont;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 2px;
+}
+.listfooter{
+    padding-bottom: 5px;padding-top: 10px;
+}
+.footlink{
+    color: black;
+    font: csfont2;
+    font-size: 0.5cm;
+}
+#address{
+    font-family: csfont2;
+    color: black;
+    text-align: center;
+    padding-bottom: 50px;
+}
+#copyfooter{
+    color: black;
+    font-family: tahoma;
+    margin-bottom: 1px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+#bghome{
+    background: url('bgblack.png');
+    background-size: contain;
+    margin-bottom: 10px;
+    
+}
+@font-face {
+    font-family: csfont;
+    src: url(HatimuneFree.otf);
+}
+@font-face {
+    font-family: csfont2;
+    src: url(Beckman-Free.otf);
+}

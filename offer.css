@@ -1,0 +1,31 @@
+#offerbody{
+    border: 2px;
+    border-style: hidden;
+    height: 1600px;width: 100%;
+}
+marquee{
+    color: white;
+    background-color: #5900b3;
+    margin-top: 30px;margin-bottom: 30px;
+    font-family: csfont2;
+    font-size: 0.5cm;
+    width: 100%;
+}
+#vdo{
+    background: url('ofvdo.mp4');
+    background-size: contain;
+    height: 300px;
+    width: 100%;
+    margin-bottom: 30px;
+
+}
+.marvdo{
+    border-style: hidden;
+    width: 50%; height: 50px;
+    float: left;
+}
+#offbanner{
+    margin: 0px;
+    height: 1200px;
+    width: 100%;
+}
